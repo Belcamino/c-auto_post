@@ -1,0 +1,23 @@
+# Credenziali e segreti
+.env
+
+# modello di piano invii
+modello.md
+
+# dir per i testi da sottoporre a LLM
+testi/
+
+# Log (ruotati automaticamente, non vanno in repo)
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor e OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
