@@ -1,8 +1,9 @@
 # Credenziali e segreti
 .env
 
-# modello di piano invii
-modello.md
+# Piano invii e immagini (dati operativi locali)
+plan.md
+immagini.md
 
 # dir per i testi da sottoporre a LLM
 testi/
